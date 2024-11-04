@@ -150,6 +150,60 @@ The solution is implemented using a combination of programming languages, tools,
 - **SQL:** Employed for managing and querying the database that stores collected data, analysis results, and threat intelligence.
 - **REST APIs:** Enables secure communication between the client and server components, supporting data transmission, analysis requests, and alert generation.
 
+## installation
+You can install server component on windows manually!! (FOR LINUX SERVER WILL BE RELEASED AS SOON!!)
+
+```bash
+git clone https://github.com/AbishekPonmudi/Threat-intelligence-Platform.git
+cd Threat-intelligence-Platform
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass
+./install.ps1
+```
+
+
+if you unable to import the certificate please install maunally,
+PLEASE MAKE SURE THAT YOU EXECUTE THIS STEP (because of testing DG will done soon)
+
+```Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass```
+
+## Module 1 - Malware section 
+
+Navigate to the Malware_code , and find the list of section for malware analysis and exploit suggestor
+
+```bash
+cd Malware_code
+```
+There you find the list of code 
+
+```
+hash_rules       --> Custom defined YARA RULES for malware analysis 
+hashes           --> collection of malware hashed in SHA, MD5 format (up to date)
+definitions.zip  --> Contains the CVE data from 2016 to up to date for exploit analysis
+file_scanner.py  --> Signature Based FIle scanner code 
+root.py          --> Run with admin permission's
+tesst_filescanner.py
+wes.py           --> Exploit suggestor linked with CVE
+yara_testing.py  --> Main code using YARA , Header based , behaviour based analysis
+```
+TO run this code you should need the python 3.12 
+
+### Windows exploit suggestor :
+```bash
+systeminfo > systeminfo.txt
+python wes.py systeminfo.txt
+```
+Ok let have the deep understanding about the above section this is the windows exploit suggestor this is used to detect the vulnerbity that are not yest patched on the windows system and this alll get through the vulnerbility database Named CVE (Common Vulnerabilities and Exposures) [cve.org](https://cve.mitre.org/) this contain the common vulnerbity and more TTP about the recent Vulnerbilities ans by using the windows exploit suggestor we can also this find the Patch information and exposures.
+
+### custom Malware Analysis
+Next there is a Malware analyser built using the Signature based analysis ,YARA , PE Header analysis , Integrated with API (Virustotal,ClamAV,binwalk) this are the Part of the Static based analysis , also have some research work to integrate the Dynamic based malware analysis using the Sandbox and ML based analysis. For learn please refer this [research_work](https://midi-fox-ef1.notion.site/Malware-analysis-using-ML-model-Research-68ec135c6aa64754929e869262325ba9).Let see what we done!
+#### Signature based analysis :
+This is the Traditional methods to analysis the Malware analysis this methods include the IOC of the Malware signature , we developed the Malware analyser with python that convert the sysf ttem files into the hashes and match with the existing IOC and if the signature mathces it mark it as flag and do this (Critical, warning, Remove, Quaritane). and this will struggle with analys the unknown malware so that we implemented the new methods let see below!
+#### YARA Rules based analysis:
+THis is also the another method of anlaysis interrecpted with Malware anslysis , Traffic analysis, signature analysis and more.., Ok here we see Malware analysis,
+
+## How it works internally :
+First it generate the system information from the windows using the windows API named systeminfo this will further analysed using the wes module 
+
 ## GitHub Repository
 The source code for this project is available on GitHub. Visit the repository to explore the codebase, contribute to the project, or report issues:
 
