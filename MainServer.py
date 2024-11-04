@@ -6,7 +6,7 @@ import getpass
 from Network_code.Main_server import *
 from Network_code.Running_services.Network_service_cap import *
 from wesng.wes import *
-from Malware_code.yara_testing import *
+from Malware_code.Sys_scan import *
 
 # from Network_code.Main_server import *
 # from Malware_code.yara_testing import *
@@ -88,6 +88,7 @@ def authenticate():
         username = input()
         password = getpass.getpass("New Password: ")
         re_password =  getpass.getpass("Re-Enter Password : ")
+        print(bcolors.RED+"You were Logged Out Login again!!" + bcolors.ENDC)
         save_credintial(username, password)
         for _ in range(0):
             authenticate()
@@ -100,13 +101,13 @@ def authenticate():
         password = getpass.getpass("Password: ")
         if username == auth['username'] and password == auth['password']:
             print("Logged in!")
-            custom_cli_shell()
+            custom_cli_shell(username)
         else:
             print("Privilage denied. Exiting...")
             exit()
 
-def custom_cli_shell():
-    current_path = ['Havox@EDR']
+def custom_cli_shell(username):
+    current_path = [ username +'@EDR']
     print("\n")
     print(bcolors.OKGREEN + "Welcome to EDR CLI! Type 'help' for a list of commands or 'exit' to quit.")
     print("This is the CLI-based EDR Project. Use the command 'hello' to wake me up!!" + bcolors.ENDC)
@@ -114,7 +115,7 @@ def custom_cli_shell():
     
     while True:
         prompt = "/".join(current_path)
-        command = input(bcolors.BLACK + bcolors.BG_RED + prompt + bcolors.ENDC + " > ").strip()
+        command = input(bcolors.BLACK + bcolors.RED + prompt + bcolors.ENDC + " > ").strip()
         print("\n")
 
         if command.lower() == 'clear':
@@ -124,6 +125,7 @@ def custom_cli_shell():
         if command.lower() == 'hello':
             print(bcolors.BG_YELLOW + bcolors.BLACK + "Available Commands: " + bcolors.ENDC)
             print(bcolors.BLUE + bcolors.BOLD + """
+            
 [1]  Forwarder configuration 
 [2]  Network Configuration
 [3]  Create Rules & Policy
@@ -221,8 +223,14 @@ Basic Commands:
             elif current_path[-1] == 'Malware Scan':
                 print(bcolors.BG_GREEN + bcolors.BLACK + "Opening Malware Scan Services..." + bcolors.ENDC)
                 print(bcolors.BG_BLUE + """
-1. Run YARA Scan
-2. Scan Report
+1. Run Malware Scan 
+2. Report Generated
+3. Rules Preset 
+4. Create/Edit Yara Rules
+5. Import API / Library
+6. API / DLL Hooking 
+7. Tuning Option
+8. Schedule Scan options                                                                
 """ + bcolors.ENDC)
                 
                 #   """Untill this Show section malware scan"""
@@ -295,12 +303,14 @@ Basic Commands:
 
                #  """ SELECT section start for malware scan"""
 
-            elif current_path[-1] == 'malware scan':   
+            elif current_path[-1] == 'Malware Scan':   
                 choice = command.split()[1]
                 if choice == '1':
-                    print("Running YARA Scan...")
+                    print("Running malware analysis")
+                    main()
                 elif choice == '2':
                     print("Generating Scan Report...")
+                 
                 else:
                     print("Invalid selection for Malware Scan.")
 
