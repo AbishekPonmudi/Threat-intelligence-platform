@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AbishekPonmudi/PlanqX_EDR-Endpoint-Detection-and-Response" alt="PlanqX EDR">
+</p>
+
 # Endpoint Detection and Response (EDR) Solution for windows Environment 
 NOTE : THE DOCUMENTATION ARE MENTIONED BELOW , IF DOWNLOAD OR TESTING PLEASE ! VISIT HERE [installation process](#installation)
 
