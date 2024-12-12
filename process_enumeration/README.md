@@ -1,4 +1,4 @@
-# Process Enumeration and Analysis Tool
+# Process- child process, Modules, API Enumeration
 
 ## Overview
 
@@ -56,3 +56,11 @@ The JSON file generated looks like this:
         }
     ]
 }
+
+
+REFERENCE :
+https://youtu.be/kxjjvpQIr-c
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kxjjvpQIr-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
