@@ -59,6 +59,4 @@ The JSON file generated looks like this:
 ```
 
 REFERENCE :
-https://youtu.be/kxjjvpQIr-c
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kxjjvpQIr-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the Demonstration Video](https://www.youtube.com/watch?v=kxjjvpQIr-c)
