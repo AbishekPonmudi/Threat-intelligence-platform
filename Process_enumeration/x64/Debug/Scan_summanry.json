@@ -1,0 +1,1129 @@
+{
+    "Scan info": [
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\advanced_ip_scanner_Aliases.bin",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "8036a039f17c8659e47b4453061017f66aac3e4da3f1f3ddef133093d5b9c92d",
+            "Timestamp": "Fri Jan  3 23:08:34 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\advanced_ip_scanner_Comments.bin",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "8036a039f17c8659e47b4453061017f66aac3e4da3f1f3ddef133093d5b9c92d",
+            "Timestamp": "Fri Jan  3 23:08:35 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\advanced_ip_scanner_MAC.bin",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "8dc56a881d815620f5f3ab7c49ac395ad3dd74c01a28829d5c509b54ffc418ae",
+            "Timestamp": "Fri Jan  3 23:08:37 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\archive.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c93b036ce1a4a367d03358df48f03d0117797a04df916fe4cbc9f8927e958822",
+            "Timestamp": "Fri Jan  3 23:08:38 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\AuditPolicyGPManagedStubs.Interop.dll",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "2359589cfc6fcda1c576e03b4b68ad43ebab11e1738e0304995c6e418fb8c1d9",
+            "Timestamp": "Fri Jan  3 23:08:39 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\brightness controller.bat",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "5fe56c281bb63780b4bce912b284e528232aa1c8a0e6a277b369c1818239cbd4",
+            "Timestamp": "Fri Jan  3 23:08:40 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\brightness controller.bat.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e46ee5d350f1552b3317af5c49f8d9fce52599547c500a8c2839f3b6555676a5",
+            "Timestamp": "Fri Jan  3 23:08:41 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\brightness controller.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e46ee5d350f1552b3317af5c49f8d9fce52599547c500a8c2839f3b6555676a5",
+            "Timestamp": "Fri Jan  3 23:08:42 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\changeinstate.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "5cdf50edca9903465ae3e48dc5980ad61acca1372fd2b361cc078533a73cabf4",
+            "Timestamp": "Fri Jan  3 23:08:44 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\Content Submission Format.docx",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "Timestamp": "Fri Jan  3 23:08:45 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\Defeat-Defender.bat",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "53cedc33c74fe2ce7bf9f533163ff41087cdf77b39d8a36838b43f42e02cd276",
+            "Timestamp": "Fri Jan  3 23:08:46 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\desktop.ini",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "8301e344371b0753d547b429c5fe513908b1c9813144f08549563ac7f4d7da68",
+            "Timestamp": "Fri Jan  3 23:08:48 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\dm857c.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "f51cdfeb45eaf4ffbf7abf0fe9b3d548b202b4528401005c2c3192b00bc32367",
+            "Timestamp": "Fri Jan  3 23:08:49 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\don't run this.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e46ee5d350f1552b3317af5c49f8d9fce52599547c500a8c2839f3b6555676a5",
+            "Timestamp": "Fri Jan  3 23:08:50 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\hooking_file.exe",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "354f0b2b8b375619bb36ee79305a5e92e491fdb9dde4cfd661a8e74b763eea8e",
+            "Timestamp": "Fri Jan  3 23:08:52 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\lockuser.bat",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "49758bfc179a9be0b8bac99bab74671eab3c8c5370d635b93eeba644207e0544",
+            "Timestamp": "Fri Jan  3 23:08:53 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\information_gathering_tool.bat",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e352ff88dc907b9d853e8f848297d550e46824033400370fb5b987327026600c",
+            "Timestamp": "Fri Jan  3 23:08:55 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\information_gathering_tool.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e352ff88dc907b9d853e8f848297d550e46824033400370fb5b987327026600c",
+            "Timestamp": "Fri Jan  3 23:08:56 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\powershell_script_2.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "18f47099d4accdca55f3466de57a9260974a72d3bc07c51a373e8ffa11ec78ad",
+            "Timestamp": "Fri Jan  3 23:08:58 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\poweshell script.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "7c84f53ecac47d2057ad448fadce57aa050299388ed5e7f9626ec30de3c9bf91",
+            "Timestamp": "Fri Jan  3 23:08:59 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\POWESHELL_LOGS_SCRIPT.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "08941c0fca51f24540cc68354ba45a609691aa72e759bca781e0bd53b60d3505",
+            "Timestamp": "Fri Jan  3 23:09:00 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-Authenticode-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e7d878dbeeacd32e2dea0eee98236740a585ad82fa4165da73d72788202207c5",
+            "Timestamp": "Fri Jan  3 23:09:02 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-EnvironmentVariables-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "66a3dd5376a8f537f7da0966811c9b7d3c10cab0ae1fc53fb1045cb85472fea0",
+            "Timestamp": "Fri Jan  3 23:09:03 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-FirewallRules-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "4b6c25ab3ee5281eb828c5e2256b9986153ab5cc96d9364b84389516c6a8dc16",
+            "Timestamp": "Fri Jan  3 23:09:04 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-hardwareinfo-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "d7fe3af54efbd49eeea00810f4771f04f3c9e02dca2f091982ff44c1c6762c28",
+            "Timestamp": "Fri Jan  3 23:09:06 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-LastRebootTime-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "88efc86c356d507a5fd1900f6e1196e94cc087fcccc50dc38d40f9471517f7af",
+            "Timestamp": "Fri Jan  3 23:09:07 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-MyComputerInfo-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "420f192562f4c00ec92fd72dffa4f5e2e599a745085541a0ddc1293955b01e3c",
+            "Timestamp": "Fri Jan  3 23:09:08 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-MyNetAdapter-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "463e4c5a04ac2dcede5f7d7fc687b9a3ba66ab3049728fbad967ef88cb3e740f",
+            "Timestamp": "Fri Jan  3 23:09:09 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-RunningProcesses-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "cd63234b9f1a9e7a021dab083d68e8f4e62632f27ebcd8c87c7359a538d47d79",
+            "Timestamp": "Fri Jan  3 23:09:11 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-ScheduledTasks-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "5dea70d9a5c2f81763237c86e13d1fb36f8606a8c371601aed021b10f2fb12d1",
+            "Timestamp": "Fri Jan  3 23:09:12 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-SystemInformation-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "199fc2fc45a8e8ee9c6668e857c652ba1d15ed1205fd220add7e6c9d12dfa29a",
+            "Timestamp": "Fri Jan  3 23:09:13 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Get-WindowsUpdates-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "62998879f4285b3cbbc198afd9e589edb851af0cc764a0a19a8c4c69f02508ed",
+            "Timestamp": "Fri Jan  3 23:09:14 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\MAIN INSFORMATION GATHERING SCRIPT\\Your path to store ttr\\Portinfo-LogFile.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "622c6849f90295a32d46b10ca35ef9c039ab2170ab7942bb308cef8b5fe0c27d",
+            "Timestamp": "Fri Jan  3 23:09:16 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Allaple\\49cccd30a564410d1f9bbce89fa15890.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "97e3fb3fb0b77ba5ecce0d1d10d6408e3316baff66d7893605aab190578bafa1",
+            "Timestamp": "Fri Jan  3 23:09:17 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Allaple\\b17911ddeab973db51362721c940d882.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e36cfd96cc919072ed8f055e807662e6d7239908e340a0a25d57569d0b7028ea",
+            "Timestamp": "Fri Jan  3 23:09:18 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Downloader-CUZ\\smb-onil0o36.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "7e829dee117892c06a095c76c0c6d210550bd3372300d26d96b141a2e3629d5f",
+            "Timestamp": "Fri Jan  3 23:09:19 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Generic Trojan\\5b2aa53001c0884222bebf931b8235e80cc798c46e3e28c5a4026ccd5590fabf.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "16922b999d861d5f0755bd4ce134cc71af6308fee16989fa98e449fc9fa0433a",
+            "Timestamp": "Fri Jan  3 23:09:21 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Generic Trojan\\786ab616239814616642ba4438df78a9.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "7054f0fc4f068acc20f1ac31c46457bcba08c08a10a781372b7bd3b8c6591caa",
+            "Timestamp": "Fri Jan  3 23:09:22 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Generic Trojan\\fa73963e516d9be0cc8ae60d7a1cd8bc6ac01f464b2c772ddb97739d4d1ff38d.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "495a459881560883953012cec282045c1f388aef5f367c18d1e211adbf3e04ff",
+            "Timestamp": "Fri Jan  3 23:09:23 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Generic Trojan\\smb-1bd_c8y5.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "06a8370354d3fc8651382c54b59a8cb71be0fd34b079b7d4109efe9a1df35370",
+            "Timestamp": "Fri Jan  3 23:09:25 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Generic Trojan\\smb-id9dl67p.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "eafdc4caa5ac65712979899d30dba4683b4fedbb4c6b19cc1c673b87efcfb789",
+            "Timestamp": "Fri Jan  3 23:09:26 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\mitre-attack\\Emotet+Trickbot_comparison.xlsx",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "6ff88255226a7f0de338e8383904a6fd8af5eb630c28ae6846b107de41fa22ef",
+            "Timestamp": "Fri Jan  3 23:09:28 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\mitre-attack\\readme.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "a7fe66d79f879e2a2aff159dfd30968bfab682e420c6947b2b7a537a82b31b75",
+            "Timestamp": "Fri Jan  3 23:09:29 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Muldrop\\smb-37n0gip7.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "ca7cb2bd87b622738cd898710d69bfd79e3b7602f3395e9f2c72f9ea49b15cb5",
+            "Timestamp": "Fri Jan  3 23:09:30 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Muldrop\\smb-e7_udot9.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fd39137c11daf4d8c11cd8694e25573eb840db8e9f7f17266708b49d955c2d4c",
+            "Timestamp": "Fri Jan  3 23:09:32 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Muldrop\\smb-ncqut0ao.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "24dd7e5726cca55aa41a3a93dc5b26c667221f26d6a4f9a067d9abdacdcb7eb1",
+            "Timestamp": "Fri Jan  3 23:09:33 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Muldrop\\smb-zlm7d8hi.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "4d97c4b40bb0d1e0a7d27f01f4f6d348c4041135f99190987a9f18b8218d6b8e",
+            "Timestamp": "Fri Jan  3 23:09:34 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-B.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fbd46c0ba42cc0bb4ee6e5f359c0f5c2c4499e09fbb7855904c9fdbecc64e738",
+            "Timestamp": "Fri Jan  3 23:09:36 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-b2.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fddd06852b554f2858341788d71d181fd28acd4339ea52bed553ea9dac4e4cc1",
+            "Timestamp": "Fri Jan  3 23:09:37 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-b3.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "ff6692072587ab0b04a79586242b5cb96ecc807063abfeadd44babe7176e1d02",
+            "Timestamp": "Fri Jan  3 23:09:38 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-b4.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "18d0b7477f053b1ac5a164c1975c70edd76f96586b514e2ea70f4cb42ae1fce5",
+            "Timestamp": "Fri Jan  3 23:09:40 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-b5.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "0c6c11a76d6352c20c654110dfca2e5df660ee189ef1b1d95152a5f3ecf7a354",
+            "Timestamp": "Fri Jan  3 23:09:41 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-b6.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "aaf653c3dbb420429b6411270e42d5e5390df8f676c4079b1ce3ccb4145861f9",
+            "Timestamp": "Fri Jan  3 23:09:42 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-b7.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "94015caa3459ed6eb03564b9b231ed7dead63c230ac9bef6fbf9611d6364174c",
+            "Timestamp": "Fri Jan  3 23:09:44 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-M.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "00521f3d6f2c7c75972591ddc8549ddd535af8f8ca31957425f788624305c17d",
+            "Timestamp": "Fri Jan  3 23:09:45 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-M2.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "b1ea7e47ed79202977abf73f1c53929d90a351258dc417a9b78ecc77ac5184ec",
+            "Timestamp": "Fri Jan  3 23:09:47 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\Pepex-M3.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c1f3339c69d76d891d01564f23eedf195b2c82ef1bea7a015865523c6fac78cc",
+            "Timestamp": "Fri Jan  3 23:09:48 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\smb-5ebgzza0.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "ad20ae0224b45bd5348cfcd12ebd7167ced48efcc0d363926714017263dee8e3",
+            "Timestamp": "Fri Jan  3 23:09:49 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Pepex\\smb-__lltt96.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "2af07ba65a6ed083b72678224e3f74353400410888e40db610de02713051767c",
+            "Timestamp": "Fri Jan  3 23:09:50 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\1d4322dbad293847de14eca09bee5056eaede7ce178490e101642bf1f5875e37.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "58038ba64962ce0ba94e0e0c4dc0356e607d5a1a6aaa64662eb6731cb7e87ba5",
+            "Timestamp": "Fri Jan  3 23:09:52 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Satan\\satan.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "595e2825095b12ddfba4ee6f98f4f6cb1ff1fbc37a3b3191b2fc203d486ba163",
+            "Timestamp": "Fri Jan  3 23:09:53 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\UIWIX\\146581f0b3fbe00026ee3ebe68797b0e57f39d1d8aecc99fdc3290e9cfadc4fc.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "a307a9e165d0bd0a539f5787cfc94c5abffd6f1924ff774452d72acb2a8bcf3a",
+            "Timestamp": "Fri Jan  3 23:09:54 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa.bin.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "219f4e1e62fa50d0e407a6ae5c49344e1a888f97e7131be118d6c312217e69cc",
+            "Timestamp": "Fri Jan  3 23:09:55 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\mssecsvc_0c694193ceac8bfb016491ffb534eb7c.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "1bd50736a69035c57577b3534a88864b79b236b5b0e265051c41c150dd48ab81",
+            "Timestamp": "Fri Jan  3 23:09:57 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\mssecsvc_41b5ba4bf74e65845fa8c9861ca34508.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c8c53f25f6118bb1645a12b198fe1cb8b99ceb417df5a1d0a210ac720fba33de",
+            "Timestamp": "Fri Jan  3 23:09:58 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-3kn32w1v.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "bb8f0b0dcaf7a656a24b6ab92bb693a9b0231ba797eb11aabdfbe39cd0504ebb",
+            "Timestamp": "Fri Jan  3 23:09:59 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-5cgc70g1.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "9f7a185d2633f9c279344540cb17c3802f4bd4e51c24470d8f35cc368dc46c31",
+            "Timestamp": "Fri Jan  3 23:10:01 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-7rwkaozq.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "cecfc61b99a62ef90e9fd30ba1c51e86a7448f32f417c3e88632b85b6e6b19d5",
+            "Timestamp": "Fri Jan  3 23:10:02 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-82rfim2h.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "bda40b09b1c865f03ebdf7ae738fe5def09b5717e9738016c78a92530d77f572",
+            "Timestamp": "Fri Jan  3 23:10:03 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-b4tq2hti.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "853af15aa9a2e12e88e80bbf1e78cb9650c1152aa9f75e990fdd7b6a6d38ca05",
+            "Timestamp": "Fri Jan  3 23:10:04 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-d1674sc2.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "5104a641086328185e0d41db0dffc8f16a68e06c459d77c377e510c4560c2362",
+            "Timestamp": "Fri Jan  3 23:10:06 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-e0y16y2p.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "562490da2dc4bffc1d24b84e2138dede6c69194cc793f84a571d00d96d706d18",
+            "Timestamp": "Fri Jan  3 23:10:07 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-gab_1g0l.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "f7aae45df24c828753e769ef66b7527bbf227a50ea263e3b031e667898e016d4",
+            "Timestamp": "Fri Jan  3 23:10:08 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-gv5k5anv.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "d3ec0ecf3aad1eed7ce2f17fd166d424c162f8c008d72051eff1093bd7a9c95d",
+            "Timestamp": "Fri Jan  3 23:10:10 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-ij2n4cyd.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "ba8590d846de3d959ae39d650d08eed7dad40fd491e6568f24b7a84e8efa9990",
+            "Timestamp": "Fri Jan  3 23:10:11 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-jfpzku0b.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "3d13060fe721f81ea7d27a7c1b5bbffaf27ca2a9fdf43c123be3d45e6b86e9b5",
+            "Timestamp": "Fri Jan  3 23:10:12 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-kmnr7qja.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fbdb6667e33091a7ded57feb84e2050ecb6e141dd6543d2b07a60f2ea70022f1",
+            "Timestamp": "Fri Jan  3 23:10:13 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-lyqgstbu.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "75bc1408788422d9058cab0a542e02df28779a4c02587665af8c78b494a7c8d8",
+            "Timestamp": "Fri Jan  3 23:10:15 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-oat1c4ef.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "10d2a591d6fd563185fa1e44dae60b6a65962616e3aaf56a9ec353fa34466739",
+            "Timestamp": "Fri Jan  3 23:10:16 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-oc35cajn.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "7a77b98b1352b3fec82bb3d075b4e50f5dc096505490c1fab92030db6b5c30dd",
+            "Timestamp": "Fri Jan  3 23:10:17 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-ojjfqxul.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "4d274e872953afd207ea60d339dbeb91f6c3cfe28deb8a65b7f7fc89989f5837",
+            "Timestamp": "Fri Jan  3 23:10:18 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-tkas_857.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c7f145b3866fd42f8bda0881dea72d5ebfdb87521b91e7ea9e5419b3fd89fa75",
+            "Timestamp": "Fri Jan  3 23:10:20 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-vasyl9yj.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "d734de484911803fb821a9bce34b775aa83a20b9eaac014e41ea34ee3a24add7",
+            "Timestamp": "Fri Jan  3 23:10:21 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Ransomware\\Wannacry\\smb-y16ftv9_.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "3e1c97ea92c8b19c9dc64804a3e91a563a254e84a010774bd0e13388e85e68f5",
+            "Timestamp": "Fri Jan  3 23:10:22 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Rbot\\Rbot-O.7z",
+            "Local - Malware Flag": "Yes",
+            "SHA-256 Hash": "a96181997bfe6e3dea689a9f8ca59f04edd352fe1c6993d0334fecc9d6ff28f5",
+            "Timestamp": "Fri Jan  3 23:10:23 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Rbot\\smb-2leu2nil.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "990376c699a5e8d34783cd1d7228281b68ec2a1cef2d5735433e65b66ece968e",
+            "Timestamp": "Fri Jan  3 23:10:25 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Rbot\\smb-ts5zof3r.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "152b7c410bd4067295aa87b3edc91bfb8a7cdfe68ab98de729273b10eaddacd2",
+            "Timestamp": "Fri Jan  3 23:10:26 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\README.md",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "d1279d1216c61b62e32defadaa8bacb8ff3c01fe2aaab594e9ed3ce609abf1a6",
+            "Timestamp": "Fri Jan  3 23:10:27 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\SdBot\\28247211d1eb08370aa363f08821a653.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e9dc91fd4535552ec9b7a2ca6d8c99010e2d64fb4563e30615472039446f9a1e",
+            "Timestamp": "Fri Jan  3 23:10:29 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Shodi\\smb-9ai6oshz.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "0b06a60e066735f0e1a749c86a09793e428143668311f856a5b6ca0f362efbd9",
+            "Timestamp": "Fri Jan  3 23:10:30 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Spam\\Paypal\\Paypal.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "3e5ac22cc012f4db06e208f26782f682fa97afc7250d4a472ceee9c6ed50bfe2",
+            "Timestamp": "Fri Jan  3 23:10:31 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\1e0b984832b2282e86d923947c0a9244.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "03affd363484292a255883b16f267aa8f734f644cd81ba4aa85c4a89d2788a86",
+            "Timestamp": "Fri Jan  3 23:10:33 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\414af3620d0843f07318a2a33f65667d.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fddd06852b554f2858341788d71d181fd28acd4339ea52bed553ea9dac4e4cc1",
+            "Timestamp": "Fri Jan  3 23:10:34 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\46c7424076e7421298191c1e439c7ed8.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fbd46c0ba42cc0bb4ee6e5f359c0f5c2c4499e09fbb7855904c9fdbecc64e738",
+            "Timestamp": "Fri Jan  3 23:10:35 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\7f4fb8ae70a49ddeed8d345f7450ae63.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "952e9c938641992abce8fc6f81d339ee1d638ff9a674d0accece67b7f79681b7",
+            "Timestamp": "Fri Jan  3 23:10:36 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\ae03b4ac7105106a369d07df9becb0e5.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "9eafbc6e3e0a75dea20c8e753ffdcfdb76a22d3df1c7be9e023731408fcbdf6f",
+            "Timestamp": "Fri Jan  3 23:10:38 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\c65dc9d1c7a06f8a5afc45aa2e3b4eb5.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "3bab78581adb5357451c98afe29ad094c20bad33fc420998dabdce8c63184462",
+            "Timestamp": "Fri Jan  3 23:10:39 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\e7a092ca8350fe0e6bebb27267a824bc.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "db9f2d41274acae02f802c8b94d72cacba736c1217a31ed8dee51e981cbb559f",
+            "Timestamp": "Fri Jan  3 23:10:40 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\fed2ea8543b72a736c3bd6ea0e396c7d.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "a1c7a1e6426b042037cbb5ee656c89ffd13145c55a14ab680a3d854b7720f34b",
+            "Timestamp": "Fri Jan  3 23:10:41 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-0dtc5kep.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e2f5718a3f0ac77db6414975d5d88b6916fd716768e2c6a5c85cc97a0c0ba8b8",
+            "Timestamp": "Fri Jan  3 23:10:43 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-0py2u7vw.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "bab9ec04a44493526f8af17670febd32606338e6850e89cca28a8154ba5360d7",
+            "Timestamp": "Fri Jan  3 23:10:44 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-0vn57iyp.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "a30504afbc58a8458749480db69a0f87fee6b60ed2a30711dc47a7794ff4178c",
+            "Timestamp": "Fri Jan  3 23:10:45 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-2ywt7r9f.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "df646e54a6d1814ab5952c3401045505fc7a339e69ad6d5397640b41f9bae092",
+            "Timestamp": "Fri Jan  3 23:10:46 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-5rt1elnb.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "bf9718242a445bfe5b2ae0f47c6555040427964d027c5e32a260e57c73e5e354",
+            "Timestamp": "Fri Jan  3 23:10:48 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-8ecsvmjv.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "a594977c8339ed1344509586f507c4f667a6f69e6cf96872fe64977d44c7aae8",
+            "Timestamp": "Fri Jan  3 23:10:49 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-ab90761a.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c413e0d170d33d7071886eaeb878b76c5563aa0ed52a0fdf6515abcd3938c483",
+            "Timestamp": "Fri Jan  3 23:10:50 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-bcm9iigd.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "45fa3434ceba2b0fe73a97574a11e9cd8e6b03ee300af521f8bb396b3c82c8e3",
+            "Timestamp": "Fri Jan  3 23:10:52 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-csjqyro3.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e8cf634dda787242c72e975478c36ae7bc940fc4d436ff0dc22b34cb2059e273",
+            "Timestamp": "Fri Jan  3 23:10:53 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-gse1z2_a.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "696d08c5e3ad00a112faaf3e599bf0c4b45ca88c41ebb865d535aeac26386b8b",
+            "Timestamp": "Fri Jan  3 23:10:54 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-i606fuxv.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "96489331a7739c08e876ee34b05c3b46915b6c0d6ad6c24306c47eb52d56a325",
+            "Timestamp": "Fri Jan  3 23:10:55 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-k7jfnwun.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "b277109cb807c938ca52132182960cda23d2aec775f938105b4c156a109693e5",
+            "Timestamp": "Fri Jan  3 23:10:57 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-nt7kaalt.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "0243817f33ef841cdd0145661c17b2285087efcd4ff2863324751a4320f9c170",
+            "Timestamp": "Fri Jan  3 23:10:58 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-rjkugea7.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "6c0cdc4b69f557da15c5eedb95ee70c16f49f1cb8ac46152f77d994d0467e3d1",
+            "Timestamp": "Fri Jan  3 23:10:59 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-t6hcv780.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "417304f3ee0600b9197c868a9892718bd07dfe8556413681ac6264fe2a251f99",
+            "Timestamp": "Fri Jan  3 23:11:00 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-ymicgjlh.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "ba7a9ab338cdadafa17f74c1455e2deafaac38fc5d22c6d5ca7082e40dd759b4",
+            "Timestamp": "Fri Jan  3 23:11:02 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-_amx9zoe.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "0f4bfd5c95526baf7552f40ad3d2766c24a1c2f84640ecb0540e59c3c21c3ee9",
+            "Timestamp": "Fri Jan  3 23:11:03 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\unknown\\smb-_arw2uf0.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "42cd7eb2b3ba51acf220c3cd446ff32538d9939b55c9ed2c3ec966e6627e17df",
+            "Timestamp": "Fri Jan  3 23:11:04 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Virut\\smb-qua22o4u.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "9849e33e978278070075328520663c618f05d02aad5f1fc802c68af354d44ab1",
+            "Timestamp": "Fri Jan  3 23:11:05 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Wannacry\\please-read-me.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "6b6a6ea949eb78d0eb759a5a8f54ed25bacce8589cd719184316a52b70e67104",
+            "Timestamp": "Fri Jan  3 23:11:07 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Wisdomeyes\\smb-6j9cg2g0.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "415adf501be1ecee25167bf96cec926efe82ed2653d1449ab7b110624b02294b",
+            "Timestamp": "Fri Jan  3 23:11:08 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Wisdomeyes\\smb-7888b9do.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "9bcf6d296144bef8544c504c4ce7480291c3b99e6d189097373a1df5ddeab66a",
+            "Timestamp": "Fri Jan  3 23:11:09 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Wisdomeyes\\smb-k51j6zkj.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "be599b94e32508b3311b5b39f482984bc198c904fa79193184a33d973ef7d15d",
+            "Timestamp": "Fri Jan  3 23:11:10 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master\\malware-samples-master\\Wisdomeyes\\WisdomEyes.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e87a61c253467a65b36a7531908aec0109a81cf12f173e0752af702601db6e29",
+            "Timestamp": "Fri Jan  3 23:11:12 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware-samples-master.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "3b61757c276c9f823c8d49f5322338891335c6ea17649ba0b39e36237d5d399d",
+            "Timestamp": "Fri Jan  3 23:11:13 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\malware.bat",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "be0e98eb33ff4ae685f3079bbc65b3f72e8bec17b7216e94f505d456e2167429",
+            "Timestamp": "Fri Jan  3 23:11:15 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\New folder\\powershell_script_2.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "18f47099d4accdca55f3466de57a9260974a72d3bc07c51a373e8ffa11ec78ad",
+            "Timestamp": "Fri Jan  3 23:11:16 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\New folder\\VMware-workstation-17.5.2-23775571.exe",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "0871195dc1ec2e46da08ea80bc7f2b473e62d32825fe3591a893d79a2e2ed199",
+            "Timestamp": "Fri Jan  3 23:11:19 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\office.cpp",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "4215055795e69ffa93831209972cdde4c1f3583aef8f7c34cf0e1c4bef8bb2e7",
+            "Timestamp": "Fri Jan  3 23:11:21 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\password generator.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "59d09418a4949435a48c202111193f0d8371a2cab930b08cabafdc3cea4b3fbf",
+            "Timestamp": "Fri Jan  3 23:11:22 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\popup.bat",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "115f81b1b2c0759e3dc083c0d37f538e40767e6d853041fd1240cc55be83a24e",
+            "Timestamp": "Fri Jan  3 23:11:23 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\port_scanner.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "859a167d7ef53f94c48de2d809b80311519a55d0121490243a6784adae188fee",
+            "Timestamp": "Fri Jan  3 23:11:24 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\.github\\ISSUE_TEMPLATE\\bug_report.md",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "26102a00d6f4b6cf380e7bfc906a432c1dae264ea7da7b2e4a58898a8f9d72f1",
+            "Timestamp": "Fri Jan  3 23:11:26 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\backdoor.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "cffc4705d0c0f606bc94e3770a4d439b153b93e9f10a07ead74d30ab926cf48d",
+            "Timestamp": "Fri Jan  3 23:11:27 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\config.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "9af7c16ab3938a3fd8c235ea8ae5fb5bbcd493d7ca599362576433a80257077a",
+            "Timestamp": "Fri Jan  3 23:11:28 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\images\\preview.PNG",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "64643b5a2788df5dd381738b853711417205a089ecb8366a9364bea8a3cf8b3e",
+            "Timestamp": "Fri Jan  3 23:11:30 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\base.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "86cff26617712f872e64ebfca5d3e6b9fe2000ca29c9fb7b7489bbaabd1ce14a",
+            "Timestamp": "Fri Jan  3 23:11:31 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\custom\\bindandexecute.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e6111f36f0b4c2df18cb7c8e2c5a723616d833c4683521f78df564fbb8fe9c29",
+            "Timestamp": "Fri Jan  3 23:11:32 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\custom\\execute.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "32858331bf4e5cb82c17a33125618920d5a28f77e050e3eb890e555224e7e756",
+            "Timestamp": "Fri Jan  3 23:11:33 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\custom\\__pycache__\\bindandexecute.cpython-312.pyc",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "90a9118590b514f03a86ff841319a9f30f32355ff6b3c67f00b0afdefd318d4b",
+            "Timestamp": "Fri Jan  3 23:11:34 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\custom\\__pycache__\\execute.cpython-312.pyc",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "45e7ec4b6496a963f347dacd5a3c6751d4d09193faad5af4698bf9db7372709b",
+            "Timestamp": "Fri Jan  3 23:11:36 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\payload.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "60916794d2dc70949a8384fd9489227abb363afa9e7ea83c8ada657fe9c9ab45",
+            "Timestamp": "Fri Jan  3 23:11:37 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\templates\\advanced-payload.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "6ee2419fdb418bcd2096faa7658fbb1ea3d414aba3bbe9e72142235e1535164e",
+            "Timestamp": "Fri Jan  3 23:11:38 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\templates\\basic-payload.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "952d20281606d0da1591789b7b33015c731c14e192b6532eba6c9f9aa8e9c39c",
+            "Timestamp": "Fri Jan  3 23:11:39 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\templates\\template.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "3342a577b6c887ef9a6e0ac6f9e372273f1e3c09587c91cbb4fe2410da997cad",
+            "Timestamp": "Fri Jan  3 23:11:41 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\__pycache__\\base.cpython-312.pyc",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "da1e7ba90126bfcb8d4aa4e852b6ba9c7d76dd70e5020cbfc690c4c17245100d",
+            "Timestamp": "Fri Jan  3 23:11:42 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\payloads\\__pycache__\\payload.cpython-312.pyc",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "dd61d4e71a388926764a52805e47e38bfae575ad5ff4312bb4909e0a320bf4e7",
+            "Timestamp": "Fri Jan  3 23:11:43 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\utils.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "00f5a3b98b72a0e3b466e3b68e07fb4f26ad0d0cb9e88c45fea98eca927828c1",
+            "Timestamp": "Fri Jan  3 23:11:45 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\__pycache__\\config.cpython-312.pyc",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c17f138096e14444593ad810fad824d9391152f1a53d94a19bf49f2c6998ae09",
+            "Timestamp": "Fri Jan  3 23:11:46 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\core\\__pycache__\\utils.cpython-312.pyc",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "4a5975e441590b490a13e5365464107df7d27445c255929f25d324241b99b51e",
+            "Timestamp": "Fri Jan  3 23:11:47 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\encoder.jar",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "2e36b7ef979275c90b8ca305d53ef7a065bdc7bad1bd6dbb553d5802efaa5b6e",
+            "Timestamp": "Fri Jan  3 23:11:49 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\LICENSE",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+            "Timestamp": "Fri Jan  3 23:11:50 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\listen.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "eb24a86dd1c6347ed18c49099b963ce2e07a6088f392d015e5660706d7ceeea9",
+            "Timestamp": "Fri Jan  3 23:11:51 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell-backdoor-generator-main\\README.md",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "0afc58ca0e288b620cfbf2fa017189cc771bc7e48a4834ff6656152421261f10",
+            "Timestamp": "Fri Jan  3 23:11:52 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\powershell_script_3.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "38c4876260d58e0c65104270724a52902e13dc3d5811c899b5be03054596d432",
+            "Timestamp": "Fri Jan  3 23:11:54 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\ProcessMonitor.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "d4ed579fdc1957fde0124dd41efd8d72af0529254984bfa5a3864ecd8b539252",
+            "Timestamp": "Fri Jan  3 23:11:55 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\Rbot\\Rbot-O.7z",
+            "Local - Malware Flag": "Yes",
+            "SHA-256 Hash": "a96181997bfe6e3dea689a9f8ca59f04edd352fe1c6993d0334fecc9d6ff28f5",
+            "Timestamp": "Fri Jan  3 23:11:56 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\Rbot\\smb-2leu2nil.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "990376c699a5e8d34783cd1d7228281b68ec2a1cef2d5735433e65b66ece968e",
+            "Timestamp": "Fri Jan  3 23:11:58 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\Rbot\\smb-ts5zof3r.7z",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "152b7c410bd4067295aa87b3edc91bfb8a7cdfe68ab98de729273b10eaddacd2",
+            "Timestamp": "Fri Jan  3 23:11:59 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\reverseshell.bat",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "4c50084a5bb47dd2739197357d2114d4d5aa55b32c9e7764b214a1c11880f95e",
+            "Timestamp": "Fri Jan  3 23:12:00 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\reverse_shell.bat",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "69bc35dc7c5e696852264790e172fb69cd9cd8464528e37dd326e95816fc9bcb",
+            "Timestamp": "Fri Jan  3 23:12:02 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\reverse_shell.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "69bc35dc7c5e696852264790e172fb69cd9cd8464528e37dd326e95816fc9bcb",
+            "Timestamp": "Fri Jan  3 23:12:03 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\Script.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "Timestamp": "Fri Jan  3 23:12:04 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\speed test.py",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "a60b691776de1eb0b5e2c487a7c870310dfce7b3a72f22ce56255cb7fa88cea3",
+            "Timestamp": "Fri Jan  3 23:12:06 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack-prompt.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e868ecc73f9ed3e35b73e05af7f1b174016e08be709fe85f4c90dfc91de33528",
+            "Timestamp": "Fri Jan  3 23:12:07 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\.vscode\\launch.json",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "eae30182899530fd5e9a2a18f78a49dd8b5ac2fcf8a7bcff15e67125ea7c3b75",
+            "Timestamp": "Fri Jan  3 23:12:08 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\.vscode\\sql.sql",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "407c7c66f3c78b14a7eccb3de8121ad82d4e21d56d6dc2d69b1d1631e001b296",
+            "Timestamp": "Fri Jan  3 23:12:10 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\css\\db.php",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "67415033c8afd44340c7db2f6c5111a85ad8b0a60ebf4e6421b8a8fb93cadd10",
+            "Timestamp": "Fri Jan  3 23:12:11 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\css\\login.php",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e1a1cc35c2266a2a7a07ecfc035fb030a4a5e04ad3baede72cd05cac355a26ad",
+            "Timestamp": "Fri Jan  3 23:12:12 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\css\\logout.php",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "9ec1a9c8cc07113147edd77b78da37f7531821fcedf6312a448537efd7aacd50",
+            "Timestamp": "Fri Jan  3 23:12:14 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\css\\project-entry.php",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fe31289f4ea78733805427ee56b8d33d9d94a085b97f66dfb0d29f01ded76931",
+            "Timestamp": "Fri Jan  3 23:12:15 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\css\\register.php",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "d62d1761386befd4806017b2a5e0840ac669579287dd8a67c150bcab460ec5ec",
+            "Timestamp": "Fri Jan  3 23:12:16 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\css\\script.js",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fb0ce4be7816063e258693124ce85272f18c73d226671eacb4bc04b5822830c9",
+            "Timestamp": "Fri Jan  3 23:12:17 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\css\\style.css",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "d630a935156c8bcc6eaf90cc829ded9e63c5536d8c0851020d4156588010780f",
+            "Timestamp": "Fri Jan  3 23:12:19 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\dashboard.php",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c22e2f9dea92eb8d4b64a33b3748b5b177d7c3c0da995550c072a4fb5de34e2c",
+            "Timestamp": "Fri Jan  3 23:12:20 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\index.html",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "d55b3d1c4c137315922ef3f406d161a5be7bb4df8fa72274cc4fa5cc0db8897f",
+            "Timestamp": "Fri Jan  3 23:12:21 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\php\\product-review.html",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "Timestamp": "Fri Jan  3 23:12:23 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\php\\product-review.php",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "45b18ac0e0856a1f467c28b9346eb6130ca26e7d7aff23e518bd984c51002907",
+            "Timestamp": "Fri Jan  3 23:12:24 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\product-entry.html",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "250484777a5479a6099199252313153b00c76868dbba26009bb676d2d75e0c46",
+            "Timestamp": "Fri Jan  3 23:12:25 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\product-review.html",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "8910341b0b82fcd25ec66a1e5901cf526ce5840b1f9b67fcf11b1630292ca0d9",
+            "Timestamp": "Fri Jan  3 23:12:26 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\product-status.html",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "Timestamp": "Fri Jan  3 23:12:28 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project\\register.html",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fe33c62ede0604e42febcb900f5b4d790456bf790cad127e772f66f950997f78",
+            "Timestamp": "Fri Jan  3 23:12:29 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stack_project.zip",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "3b64bd9f0bddb62905c0f26c06d4b1d75fef231bca34ff7e29e7452450402a8d",
+            "Timestamp": "Fri Jan  3 23:12:30 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\stop",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "499262127e9788d9e9324339632e4cc9e0253bf3198dd97656a0f2b106acea25",
+            "Timestamp": "Fri Jan  3 23:12:31 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\systemlogs - Shortcut.lnk",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "e3db46c891a7418dab77ba68fa3255e98b7b9c78576c8d45e42a9d110453721e",
+            "Timestamp": "Fri Jan  3 23:12:33 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\WindowsPowerShell\\credentials.txt",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "c8a061382c3a9ab2189277acd7ab0bc2ee2bee64db7ee877e6e1b75c0579807b",
+            "Timestamp": "Fri Jan  3 23:12:34 2025"
+        },
+        {
+            "File_Path": "C:\\Users\\Abishek\\Music\\WindowsPowerShell\\encrypt.ps1",
+            "Local - Malware Flag": "No",
+            "SHA-256 Hash": "fd55641202e18fa9759b5b18448dbd2462d4f9d81929ec5f40d198dc13f0b958",
+            "Timestamp": "Fri Jan  3 23:12:35 2025"
+        }
+    ],
+    "System info": {
+        "Path": "C:\\Users\\Abishek\\Music\\",
+        "Pc name": "Abishek",
+        "Scan details": {
+            "Scan Spot": "Server Testing",
+            "Scan Type": "Full Scan",
+            "start_time": ""
+        }
+    }
+}

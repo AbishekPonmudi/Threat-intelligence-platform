@@ -1,0 +1,5 @@
+﻿  process_enum.cpp
+  sys_scan.cpp
+  Generating Code...
+  LINK : program database C:\Users\Abishek\Documents\windows_programming\process_enumeration\x64\Debug\Process_enumeration.pdb missing; performing full link
+  Process_enumeration.vcxproj -> C:\Users\Abishek\Documents\windows_programming\process_enumeration\x64\Debug\Process_enumeration.exe

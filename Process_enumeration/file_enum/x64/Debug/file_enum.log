@@ -1,0 +1,6 @@
+﻿  file_enum.cpp
+C:\Users\Abishek\Documents\windows_programming\process_enumeration\file_enum\file_enum.cpp(70,73): warning C4244: 'argument': conversion from 'std::streamsize' to 'DWORD', possible loss of data
+C:\Users\Abishek\Documents\windows_programming\process_enumeration\file_enum\file_enum.cpp(80,73): warning C4244: 'argument': conversion from 'std::streamsize' to 'DWORD', possible loss of data
+C:\Users\Abishek\Documents\windows_programming\process_enumeration\file_enum\file_enum.cpp(231,23): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+C:\Users\Abishek\Documents\windows_programming\process_enumeration\file_enum\file_enum.cpp(231,45): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  file_enum.vcxproj -> C:\Users\Abishek\Documents\windows_programming\process_enumeration\x64\Debug\file_enum.exe
