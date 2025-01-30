@@ -1,4 +1,5 @@
 // written and tested by havox @cp OG
+// All code are writtent using Windows documentation and own coded
 
 // this tool enum the file and scan with IOC of hashes to find any malicious files
 
@@ -39,7 +40,7 @@ std::string computerHash(const std::string& filepath) {
 // object to handle the from file
 	HCRYPTPROV hcryptoprov;
 	HCRYPTHASH hHash;
-	const size_t buffer_size = 4096;  // declearing the buffer size as 4kB to read efficiently
+	const size_t buffer_size = 4096;  //buffer size as 4kB to read efficiently
 	char buffer[buffer_size];
 	BYTE hash[SHA256_DIGEST_LENGTH];
 	DWORD hashsize = SHA256_DIGEST_LENGTH;
@@ -51,7 +52,7 @@ std::string computerHash(const std::string& filepath) {
 
 	if (!file.is_open()) {
 		std::cout << error << " Error opening the File " << GetLastError() << std::endl;
-		return ""; // return nothing instead of 1 due to string
+		return ""; 
 	} 	
 	// used of the crypto converting content 
 	if (!CryptAcquireContext(&hcryptoprov, NULL, NULL, PROV_RSA_AES, CRYPT_VERIFYCONTEXT)) {
@@ -103,7 +104,6 @@ std::string computerHash(const std::string& filepath) {
 }
 
 //locading all the local hashes into the Set To Find hashes fastly like cache
-
 std::unordered_set<std::string> LocalDatabase(const std::string& LocalDB) {
 	std::unordered_set<std::string> hashset;
 	std::ifstream Fstrm;
@@ -153,8 +153,7 @@ void FolderEnum(const std::string filepath, const std::unordered_set<std::string
 			std::string scanpath = Fscan.path().string();
 			std::string Filehash = computerHash(scanpath);
 
-			// to calculate the starting time of the file scaanning 
-
+			// to calculate the starting time of the scanning file
 			std::chrono::time_point<std::chrono::system_clock> end = std::chrono::system_clock::now();
 			std::time_t scan_time = std::chrono::system_clock::to_time_t(end);
 			char Time_buffer[26];
@@ -183,7 +182,6 @@ void FolderEnum(const std::string filepath, const std::unordered_set<std::string
 
 					try {
 						std::cout << std::endl;
-
 						// Written out for testing purpose 
 						std::cerr << "Raw API Response: " << response << std::endl;
 
