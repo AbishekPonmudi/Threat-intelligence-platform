@@ -2,6 +2,11 @@
   <img src="https://github.com/AbishekPonmudi/PlanqX_EDR-Endpoint-Detection-and-Response/blob/main/screenshots/PlanqX%20EDR%20Logo.png?raw=true" alt="PlanqX EDR">
 </p>
 
+> **Warning:** This is the old version and is just for reference. The new remastered branching is being built in **V1.0.1--Testing**, so visit that to get components and releases.
+
+## VISIT BRANCH **[V1.0.1--Testing](https://github.com/AbishekPonmudi/PlanqX_EDR-Endpoint-Detection-and-Response/tree/V1.0.1--Testing)**
+
+
 # Endpoint Detection and Response (EDR) Solution for windows Environment 
 NOTE : THE DOCUMENTATION ARE MENTIONED BELOW , IF DOWNLOAD OR TESTING PLEASE ! VISIT HERE [installation process](#installation)
 
