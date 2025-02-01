@@ -45,7 +45,9 @@ The system follows a client-server architecture to efficiently handle the proces
 - **Analysis Engine:** A core component of the server module that performs in-depth analysis of the collected data. It uses multiple techniques, including static and dynamic malware analysis, anomaly detection, and behavioral analysis, to identify potential threats and generate alerts.
 
 ### Architecture Diagram
-> *(Include your architecture diagram here, highlighting the components and data flow between them)*
+<p align="center">
+  <img src="https://drive.google.com/file/d/1_xGg44sqqqGGvUpGvp9JTrKx4xqQ2U3v/view?usp=sharing" alt="PlanqX EDR">
+</p>
 
 ## Project Workflow
 
