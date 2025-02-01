@@ -46,7 +46,7 @@ The system follows a client-server architecture to efficiently handle the proces
 
 ### Architecture Diagram
 <p align="center">
-  <img src="https://drive.google.com/file/d/1_xGg44sqqqGGvUpGvp9JTrKx4xqQ2U3v/view?usp=sharing" alt="PlanqX EDR">
+  <img src="https://github.com/AbishekPonmudi/PlanqX_EDR-Endpoint-Detection-and-Response/blob/master/playbooks-crowd-strike-falcon---true-positive-incident-handling-__-doc_files-CrowdStrike_Falcon_-_True_Positive_Incident_Handling-cdf042f55c5b373b5777d4737ffe0a61.jpg?raw=true" alt="PlanqX EDR">
 </p>
 
 ## Project Workflow
